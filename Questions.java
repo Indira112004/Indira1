@@ -6,6 +6,6 @@ public class Questions {
         System.out.println("Hobby: reading");
         System.out.println("How much do you like ICT(from 1-10)): 10");
         System.out.println("Rate this task from 1 to 10: 8");
-        System.out.println("My favorite color?: red");
+        System.out.println("My favorite color?: blue");
     }
 }
